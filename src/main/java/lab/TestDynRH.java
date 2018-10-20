@@ -1,6 +1,6 @@
 /**
-		*	Modificado	por:	<nombres	de	todos	los	integrantes	del	grupo>
-		*/
+*	Modificado	por:	 Marly Johana Piedrahita  (mj.piedrahita), Juan Carlos Méndez (jc.mendez)
+*/
 
 package lab;
 
